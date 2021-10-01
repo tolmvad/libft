@@ -1,7 +1,7 @@
 # `Libft`
 
 First project in school 42. The purpose of this project is to create own C library.
-You can read tast: [`libft.subject.pdf`](subject/libft.subject.pdf)
+You can read task: [`libft.subject.pdf`](subject/libft.subject.pdf)
 
 ### Libc functions
 <table>
